@@ -3,8 +3,9 @@ FIXED: Current implementation of Observium does not support the new sysobjectid 
 
 This is a patched version for placement: /opt/observium/includes/discovery/os/edgeos.inc.php
 
-#Installation:
+Installation:
 Replace your current edgeos.inc.php at the directory listed, with this repository version
-File / location to replace: observium/includes/discovery/os/edgeos.inc.php
+File / default location to replace: 
+/opt/observium/includes/discovery/os/edgeos.inc.php
 
-Simply replace and ensure persmissions are still readable.
+Replace the file and ensure permissions are readable by the webserver. Default - www-data
