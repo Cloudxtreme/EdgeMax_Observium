@@ -10,6 +10,7 @@
  * @copyright  (C) 2006-2014 Adam Armstrong
  *
  * Patched for EdgeMax implementation : 02/02/2015
+ * Added EdgeMax/EdgeOS/EdgeSwitch
  * Kevin Hatfield - khatfield@socllc.net
  */
 
