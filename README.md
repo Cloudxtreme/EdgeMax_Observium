@@ -1,4 +1,4 @@
-# Patched edgeos.inc.php / functionality added to Observium for EdgeMax (Ubiquiti Edgerouter Pro)
+# edgeos.inc.php / Patched for Ubiquiti ERPRO/EdgeMax
 
 This is a patched version for placement: /opt/observium/includes/discovery/os/edgeos.inc.php
 
