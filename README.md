@@ -14,4 +14,4 @@ After replacing the file, it is best to update the discovery. This is the same p
 
 Execute: /opt/observium/discovery.php -h all
 or 
-/opt/observium/discovery.php -h <Replace with name of server in observium. Remove brackets>
+/opt/observium/discovery.php -h [Replace with name of server in observium. No brackets]
